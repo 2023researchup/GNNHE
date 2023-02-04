@@ -1,7 +1,3 @@
-# !!!!!!
-NOTE: We have hiden several lines in our scripts. They cannot be executed currently! Instead, the records of training outputs can confirm our experimental results.
-# !!!!!!
-
 
 ## GNNHE--Combining GNN and Heuristic Encoding.
 
